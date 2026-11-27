@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anglingtaster.github.io/sitemap.xml
+Sitemap: https://geraldanglin.com/sitemap.xml
